@@ -44,3 +44,17 @@ iPhoneSimulator SDK, iPhoneSimulator support
 )
 
 [12.2](https://devimages-cdn.apple.com/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK12_2-12.2.1.1557987768.dmg)
+
+
+iOS 10.2 Simulator: https://devimages-cdn.apple.com/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK10_2-10.2.1.1484185528.dmg
+iOS 10.1 Simulator: https://devimages-cdn.apple.com/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK10_1-10.1.1.1476902849.dmg
+iOS 10.0 Simulator: https://devimages-cdn.apple.com/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK10_0-10.0.1.1474488730.dmg
+iOS 9.3 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK9_3-9.3.1.1460411551.dmg
+iOS 9.2 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK9_2-9.2.1.1451951473.dmg
+iOS 9.1 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK9_1-9.1.1.1446593668.dmg
+iOS 9.0 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK9_0-9.0.1.1443554484.dmg
+iOS 8.4 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK8_4-8.4.1.1435785476.dmg
+iOS 8.3 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK8_3-8.3.1.1434581536.dmg
+iOS 8.2 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK8_2-8.2.1.1434581536.dmg
+iOS 8.1 Simulator: https://devimages.apple.com.edgekey.net/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK8_1-8.1.1.1434581536.dmg
+@jeremyhu
